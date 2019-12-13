@@ -26,6 +26,14 @@ header {
   background-color: #ffe500
 }
 
+h2 {
+  color: #b20953;
+  font-family: "Sigmar One", cursive;
+  font-size: 1.875rem;
+  margin: .3em;
+  padding: .4em .1em;
+}
+
 .berries-ul {
   list-style-type: none;
   text-align: center;
@@ -61,4 +69,15 @@ li a {
   color: #fff;
   font-size: 1.125rem;
   padding: .4em;
+}
+
+.berries-ul .current-page {
+  background-color: #b20953
+  border-radius: 4px;
+}
+
+footer {
+  background-color: #ffe500
+  text-align: center;
+  padding: 1rem;
 }
