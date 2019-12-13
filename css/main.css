@@ -15,7 +15,7 @@ h1 {
 }
 
 body {
-  background-color: #fff
+  background-color: #fff;
   line-height: 1.5;
   font-size: 1rem;
   margin: 0;
@@ -42,9 +42,9 @@ h2 {
 }
 
 .berries-ul li {
-  background-color: #b2a212:inherit;
+  background-color: #b2a212: inherit;
   text-align: left;
-  display: inline-block
+  display: inline-block;
   border-radius: 4px;
   margin: 0;
   padding: .3em .1em;
@@ -72,12 +72,12 @@ li a {
 }
 
 .berries-ul .current-page {
-  background-color: #b20953
+  background-color: #b20953;
   border-radius: 4px;
 }
 
 footer {
-  background-color: #ffe500
+  background-color: #ffe500;
   text-align: center;
   padding: 1rem;
 }
