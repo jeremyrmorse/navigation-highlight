@@ -47,3 +47,18 @@ img {
   display: block;
   padding: .2em .6em;
 }
+
+p {
+  font-family: Georgia, sans-serif;
+  text-align: left;
+  margin: .3em;
+  padding: .2em .4em .75em;
+}
+
+li a {
+  text-decoration: none;
+  font-family: Georgia, sans-serif;
+  color: #fff;
+  font-size: 1.125rem;
+  padding: .4em;
+}
