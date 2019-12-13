@@ -25,3 +25,19 @@ body {
 header {
   background-color: #ffe500
 }
+
+.berries-ul {
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0 .2em .4em
+}
+
+.berries-ul li {
+  background-color: #b2a212:inherit;
+  text-align: left;
+  display: inline-block
+  border-radius: 4px;
+  margin: 0;
+  padding: .3em .1em;
+}
