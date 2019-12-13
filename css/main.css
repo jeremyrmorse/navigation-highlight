@@ -41,3 +41,9 @@ header {
   margin: 0;
   padding: .3em .1em;
 }
+
+img {
+  width: 100%;
+  display: block;
+  padding: .2em .6em;
+}
