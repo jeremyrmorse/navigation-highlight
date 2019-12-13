@@ -92,3 +92,10 @@ a:hover {
 strong {
   color: #2f2d13;
 }
+
+.current-page:hover {
+  background-color: #cc1465;
+  border-radius: 4px;
+  text-decoration: none;
+  padding: .4em;
+}
